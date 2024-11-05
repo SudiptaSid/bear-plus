@@ -1,0 +1,227 @@
+/* ------------------------ Max Width 1366px ------------------------ */
+@media (max-width: 1366px) {
+
+}
+/* ------------------------ Max Width 1280px ------------------------ */
+@media (max-width: 1280px) {
+
+}
+/* ------------------------ Max Width 1080px ------------------------ */
+@media (max-width: 1080px) {
+body {
+	font-size:14px;
+}
+#cs_banner .caption .brand_name {
+	font-size:130px;
+}
+h1.heading {
+	font-size:34px;
+}
+p.subheading {
+    font-size: 16px;
+}
+}
+/* ------------------------ Max Width 1024px ------------------------ */
+@media (max-width: 1024px) {
+
+}
+/* ------------------------ Max Width 966px ------------------------ */
+@media (max-width: 966px) {
+#cs_banner .caption .brand_name {
+    font-size: 100px;
+}
+h1.heading {
+    font-size: 30px;
+}
+#cs_video_tech .cus_col {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#cs_try figure .img_sec {
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+}
+#cs_try .grid_left figure {
+    padding-right: 70px;
+}
+#cs_try .grid_right figure {
+    padding-left: 70px;
+}
+#cs_try .cs_mobile {
+    height: 420px;
+    padding: 40px 5px;
+    border-radius: 20px;
+}
+#cs_features .gallery .grids {
+    padding: 0px 5px;
+}
+#cs_features ul li {
+    margin-bottom: 10px;
+}
+#cs_features ul li p {
+    font-size: 20px;
+}
+#cs_contact .heading {
+    font-size: 26px;
+}
+}
+/* ------------------------ Max Width 853px ------------------------ */
+@media (max-width: 853px) {
+#cs_try .cs_mobile_scrn .img_sec {
+    padding: 0px;
+}
+}
+/* ------------------------ Max Width 800px ------------------------ */
+@media (max-width: 800px) {
+
+}
+/* ------------------------ Max Width 768px ------------------------ */
+@media (max-width: 768px) {
+#cs_navbar {
+    background-color: #d7536e;
+}
+#cs_banner {
+    padding: 100px 0px 50px 0px;
+}
+#cs_banner .caption .brand_name {
+    font-size: 80px;
+}
+h1.heading {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+#cs_banner .img_sec {
+    margin-top: 30px;
+    max-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#cs_intro #intro_slider {
+    max-width: 320px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+#cs_try figure {
+    margin-bottom: 10px;
+}
+#cs_try figure .img_sec {
+	top:5px;
+}
+#cs_try .cs_mobile {
+    max-width: 280px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#cs_try .grid_left figure {
+    padding-right: 0;
+    padding-left: 70px;
+}
+#cs_try .grid_left figure .img_sec {
+    right: auto;
+    left: 10px;
+}
+#cs_try .grid_left figcaption {
+    text-align: left;
+}
+#cs_about .img_sec {
+    max-width: 280px;
+    margin: auto;
+}
+#cs_contact .grid_border {
+	border-right:none;
+}
+#cs_footer .btn_download {
+    margin: 5px 10px;
+}
+}
+/* ------------------------ Max Width 736px ------------------------ */
+@media (max-width: 736px) {
+
+}
+/* ------------------------ Max Width 732px ------------------------ */
+@media (max-width: 732px) {
+
+}
+/* ------------------------ Max Width 720px ------------------------ */
+@media (max-width: 720px) {
+
+}
+/* ------------------------ Max Width 690px ------------------------ */
+@media (max-width: 690px) {
+
+}
+/* ------------------------ Max Width 667px ------------------------ */
+@media (max-width: 667px) {
+
+}
+/* ------------------------ Max Width 640px ------------------------ */
+@media (max-width: 640px) {
+
+}
+/* ------------------------ Max Width 603px ------------------------ */
+@media (max-width: 603px) {
+
+}
+/* ------------------------ Max Width 600px ------------------------ */
+@media (max-width: 600px) {
+
+}
+/* ------------------------ Max Width 598px ------------------------ */
+@media (max-width: 598px) {
+
+}
+/* ------------------------ Max Width 568px ------------------------ */
+@media (max-width: 568px) {
+
+}
+/* ------------------------ Max Width 533px ------------------------ */
+@media (max-width: 533px) {
+#cs_banner .caption .btn {
+    margin-bottom: 10px;
+}
+#cs_try .app_store a {
+    padding: 5px;
+}
+#cs_features .gallery .grids {
+    padding: 5px;
+    max-width: 50%;
+    flex: 0 0 50%;
+}
+#cs_footer .f_social li a {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+}
+.img_mw_40 {
+    max-width:100%;
+}
+}
+/* ------------------------ Max Width 480px ------------------------ */
+@media (max-width: 480px) {
+
+}
+/* ------------------------ Max Width 414px ------------------------ */
+@media (max-width: 414px) {
+
+}
+/* ------------------------ Max Width 412px ------------------------ */
+@media (max-width: 412px) {
+
+}
+/* ------------------------ Max Width 384px ------------------------ */
+@media (max-width: 384px) {
+
+}
+/* ------------------------ Max Width 375px ------------------------ */
+@media (max-width: 375px) {
+
+}
+/* ------------------------ Max Width 360px ------------------------ */
+@media (max-width: 360px) {
+
+}
+/* ------------------------ Max Width 320px ------------------------ */
+@media (max-width: 320px) {
+
+}
